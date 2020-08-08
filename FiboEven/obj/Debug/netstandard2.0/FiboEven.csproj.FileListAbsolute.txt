@@ -1,0 +1,9 @@
+C:\Users\ethan\source\repos\FiboEven\bin\Debug\netstandard2.0\FiboEven.deps.json
+C:\Users\ethan\source\repos\FiboEven\bin\Debug\netstandard2.0\FiboEven.dll
+C:\Users\ethan\source\repos\FiboEven\bin\Debug\netstandard2.0\FiboEven.pdb
+C:\Users\ethan\source\repos\FiboEven\obj\Debug\netstandard2.0\FiboEven.csprojAssemblyReference.cache
+C:\Users\ethan\source\repos\FiboEven\obj\Debug\netstandard2.0\FiboEven.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\FiboEven\obj\Debug\netstandard2.0\FiboEven.AssemblyInfo.cs
+C:\Users\ethan\source\repos\FiboEven\obj\Debug\netstandard2.0\FiboEven.csproj.CoreCompileInputs.cache
+C:\Users\ethan\source\repos\FiboEven\obj\Debug\netstandard2.0\FiboEven.dll
+C:\Users\ethan\source\repos\FiboEven\obj\Debug\netstandard2.0\FiboEven.pdb

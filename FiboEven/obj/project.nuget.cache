@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eWfY1iv1dT7N66uJepsGTtht4b2nNNif/KnlOK3eFl6/O9eNBtboA62QI6rgEmhq61atac98uGbgBMBLUuGeTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ethan\\source\\repos\\FiboEven\\FiboEven.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ethan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ethan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
